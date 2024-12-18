@@ -1,0 +1,7 @@
+Graph,Description
+Distribution of Diagnosed Diseases,"Shows the count of individuals diagnosed with different conditions, including Healthy."
+Mood Levels Across Diagnosed Diseases,Boxplot showing variations in mood levels across different conditions.
+Feature Correlation Heatmap,"Displays correlation among features like x, y, z, Magnitude, Row_Mean, and Predicted_Mood."
+Pairplot of EEG Signals,Visualizes relationships between EEG features by condition.
+Mood vs Magnitude,Scatterplot showing the relationship between magnitude and mood for each condition.
+Row Mean Distribution,Violin plot depicting the distribution of row mean values across conditions.
